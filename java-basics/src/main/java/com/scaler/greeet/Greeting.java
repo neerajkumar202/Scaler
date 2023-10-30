@@ -1,4 +1,4 @@
-//package com.scaler;
+package com.scaler.greeet;
 
 public class Greeting {
     /*
